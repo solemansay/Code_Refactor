@@ -1,1 +1,2 @@
 # Code_Refactor
+This is my first homework assignment while attending the coding bootcamp at UNC Charlotte. I really enjoyed this little project and I feel much more confident reading and writing code. having to correct the code was equal parts enjoyable and frustrating. My instructor said that it can be like playing wack-a-mole and I didnt quite understand until I actually experimented and kept refreshing and saving to watch certain aspects of the website change as I messed with the <div>'s. I'm excited for my next challenge and to learn everything that I can about coding! 
